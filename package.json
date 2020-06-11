@@ -1,0 +1,28 @@
+{
+  "name": "plasma-ts",
+  "version": "1.0.0",
+  "description": "A typescript library for easy data modeling and serverless api deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansoorsiddiqui/plasma-ts.git"
+  },
+  "keywords": [
+    "plasma",
+    "ts",
+    "typescript",
+    "aws",
+    "lambda",
+    "database",
+    "db"
+  ],
+  "author": "Mansoor Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mansoorsiddiqui/plasma-ts/issues"
+  },
+  "homepage": "https://github.com/mansoorsiddiqui/plasma-ts#readme"
+}
